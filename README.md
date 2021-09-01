@@ -75,7 +75,7 @@ new TinyColor({ r: 255, g: 0, b: 0 });
 
 import { fromRatio } from '@ctrl/tinycolor';
 fromRatio({ r: 1, g: 0, b: 0 });
-fromRatio({ r: 0.5, g: 0.5, b: 0.5 });
+fromRatio({ r: 0.5, g: 0.5, b: 0.5, a: 0.25 });
 ```
 
 ### HSL, HSLA
